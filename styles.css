@@ -1,0 +1,52 @@
+#q {
+	border-radius: 25px !important;
+}
+
+.has {
+	color:#d93025;
+	margin-top:3rem;
+	margin-left:3rem;
+}
+.google-big {
+	font-size: 5.5rem !important;
+	font-family:"Century Gothic";
+}
+
+.google-small {
+	font-size: 1.5rem !important;
+	font-family:"Century Gothic";
+	
+    margin-top: -2rem;
+    margin-left: 1rem;
+}
+
+.google-small > span {
+	margin: -3.5px !important;
+	font-weight: normal;
+}
+
+span {
+	margin: -14px !important;
+	font-weight: bold;
+}
+
+span.g-blue {
+	color: #4285F4;
+}
+span.g-red {
+	color: #DB4437;
+}
+span.g-orange {
+	color: #F4B400;
+}
+span.g-green {
+	color: #0F9D58;
+}
+
+div.col {
+	text-align: left !important;
+}
+
+div.row{
+	margin: 0.5rem;
+}
